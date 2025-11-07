@@ -4,6 +4,7 @@ namespace Hola_Mundo
     {
         public Form1()
         {
+            //Comentario N2
             InitializeComponent();
         }
     }
