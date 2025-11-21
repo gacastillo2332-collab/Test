@@ -4,7 +4,7 @@ namespace Hola_Mundo
     {
         public Form1()
         {
-            //Cambios de la rama N1 pal merge en vivo
+            //Ejemplo Rebase
             //Comentario N2
             InitializeComponent();
         }
